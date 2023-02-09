@@ -1,0 +1,108 @@
+.style-1 {
+    display: flex;
+    color: red;
+    justify-content: center;
+    padding: 1rem;
+
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+.pre-curs {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    font-family: "Comic Sans MS";
+
+}
+
+.pre-curs-2 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 1rem;
+
+}
+
+.print-price-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+.visible-prelogo-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+
+    border: 1px solid black;
+    padding: 10px;
+}
+.visible-prepayment-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.visible-postponement-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+
+    border: 1px solid black;
+    padding: 10px;
+}
+.visible-nall-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.table {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    margin-top: 1rem;
+}
+
+.data-box {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: -2px;
+}
+
+.download-info {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    margin-top: 1rem;
+}
+
+.info-add {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    margin-top: 1rem;
+    margin-right: 2rem;
+}
